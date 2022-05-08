@@ -90,6 +90,8 @@ footer {
 
 /* || MAIN PAGE CONTENT */
 
+/* Hero section style */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -99,11 +101,15 @@ footer {
     background-position: center;
 }
 
+/* Service section style */
+
 .services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/* Service section content style */
 
 .service-content {
     margin-bottom: 20px;
@@ -114,9 +120,13 @@ footer {
     color: #ffffff;
 }
 
+/* Style for images in services section */
+
 .services img {
     max-height: 200px;
 }
+
+/* Benefits section style */
 
 .benefits {
     margin-right: 20px;
@@ -129,10 +139,14 @@ footer {
     background-color: #2589bd;
 }
 
+/* Benefits section content style */
+
 .benefit-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* Style for images in benefits section */
 
 .benefits img {
     display: block;
